@@ -44,6 +44,8 @@ function App() {
 
   const aoNovoColaboradorAdicionado = (colaborador) => {
 
+    debugger
+
     setColaboradores([...colaboradores, colaborador]);
   }
 
