@@ -76,3 +76,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 mui.com 
 ant.design
+
+
+### Próximos passos
+https://www.alura.com.br/formacao-next-js?_gl=1*1cn8s3b*_ga*MTQ5OTU0MjI4My4xNjU4NTkyMjAw*_ga_1EPWSW3PCS*MTY5NTU1NDMxMS4xNy4xLjE2OTU1NTk2ODcuMC4wLjA.*_fplc*MGlVTjJkckR4RUswaCUyQm51RDFvJTJGVmtIRW8lMkJyY2ZseldQVko0YTlJeDBNYlVCcmg1QiUyQmw1Z2FNaWNyU1hMRlI2N0kxOWFWUm04JTJGSDRsajc5JTJGVjE0M25HZTNPVEhta0xaYiUyQk9FeVRnZmpCWmFLQ29VWHE5YngybmU2bjlXZXclM0QlM0Q.
